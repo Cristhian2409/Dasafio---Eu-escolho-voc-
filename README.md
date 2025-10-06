@@ -6,7 +6,7 @@ Um aplicativo web simples e divertido para resolver indecisões, focado em escol
 
 ## 🌄 Prévia do Projeto
 
-![Preview do Projeto](./preview.png)
+<img width="558" height="876" alt="preview" src="https://github.com/user-attachments/assets/bb5a7b09-e24b-40a5-b4b8-ae11db8a6247" />
 
 ---
 
