@@ -1,57 +1,45 @@
-# 🏐 Desafio: Eu Escolho Você! - Haikyuu!! 🚀
+# 🌟 Desafio do Dia — App de Desafios Diários Aleatórios
 
-Um aplicativo web simples e divertido para resolver indecisões, focado em escolher aleatoriamente um time do anime de vôlei **Haikyuu!!** 🎉
+## 📱 Sobre o Projeto
 
----
+O **Desafio do Dia** é um aplicativo interativo que propõe desafios diários de forma aleatória, com o objetivo de **quebrar a rotina** e **estimular momentos de leveza e reflexão** no dia a dia.
 
-## 🌄 Prévia do Projeto
+Cada desafio é sorteado aleatoriamente ao clicar no botão **"Lançar sorte"**, e traz pequenas ações ou reflexões positivas — como escrever três coisas pelas quais você é grato, praticar um ato de gentileza ou fazer algo novo.
 
-<img width="558" height="876" alt="preview" src="https://github.com/user-attachments/assets/bb5a7b09-e24b-40a5-b4b8-ae11db8a6247" />
-
----
-
-## ✨ Visão Geral do Projeto
-
-Este projeto é uma aplicação de **Escolha Aleatória** (*Random Picker*) desenvolvida para o desafio proposto.  
-O objetivo é fornecer uma interface simples onde o usuário clica em um botão e recebe uma sugestão aleatória, simulando um sorteio.
-
-O tema principal escolhido para esta versão é:
-
-> **"Qual time de Haikyuu!! você seria?"**
+O app foi desenvolvido como parte do desafio **"App de Escolha Aleatória"**, proposto para incentivar a criatividade e o desenvolvimento de aplicações simples, úteis e divertidas.
 
 ---
 
-## 🎬 Demonstração
+## 🧠 Funcionalidades
 
-*(Adicione aqui o link da demonstração online ou um GIF mostrando o funcionamento, se desejar.)*
-
----
-
-## 📋 Funcionalidades
-
-- 🎲 **Sorteio Aleatório:** Seleciona um time de vôlei de uma lista predefinida (ex: *Karasuno, Nekoma, Aoba Johsai, Fukurodani*, etc.).  
-- 💻 **Interface Amigável:** Design responsivo e visualmente atraente, focado em dispositivos móveis.  
-- 🧡 **Tema Envolvente:** Baseado no universo do anime *Haikyuu!!* para deixar a experiência mais divertida.
+- 🎲 **Sorteio aleatório de desafios**
+- 💭 **Mensagens motivacionais e inspiradoras**
+- 🖼️ **Exibição de imagem relacionada ao desafio**
+- 🌈 **Interface intuitiva e agradável**
+- 📅 **Estímulo ao bem-estar e à reflexão diária**
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## 🧩 Tecnologias Utilizadas
 
-- **HTML5** → Estrutura e marcação do conteúdo  
-- **CSS3** → Estilização, layout e responsividade  
-- **JavaScript** → Lógica principal do sorteio e manipulação do DOM
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6)**  
 
 ---
 
-## 🚀 Como Executar
+## 🎨 Interface
 
-O projeto é 100% client-side e **não requer instalação** de pacotes.
+> ✨ Exemplo de tela principal do aplicativo:
 
-```bash
-# Clone o repositório
-git clone [SEU_LINK_DO_REPOSITÓRIO]
+<img width="562" height="855" alt="preview" src="https://github.com/user-attachments/assets/bfd936d5-1a05-40b1-9f91-a75c86c9c192" />
 
-# Acesse a pasta do projeto
-cd Desafio---Eu-escolho-voce
+*(Adicione sua imagem de preview com o nome `preview.png` na raiz do repositório)*
 
-# Abra o arquivo index.html no navegador
+---
+
+## 🚀 Como Executar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/SEU-USUARIO/desafio-do-dia.git
