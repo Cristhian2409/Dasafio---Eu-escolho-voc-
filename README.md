@@ -32,7 +32,8 @@ O app foi desenvolvido como parte do desafio **"App de Escolha Aleatória"**, pr
 
 > ✨ Exemplo de tela principal do aplicativo:
 
-<img width="562" height="855" alt="preview" src="https://github.com/user-attachments/assets/bfd936d5-1a05-40b1-9f91-a75c86c9c192" />
+<img width="546" height="850" alt="preview" src="https://github.com/user-attachments/assets/7cd109bf-0258-472d-b5ae-505822f42149" />
+
 
 *(Adicione sua imagem de preview com o nome `preview.png` na raiz do repositório)*
 
